@@ -1,1 +1,11 @@
-pip install tavily-python
+tavily-python
+langgraph
+langchain
+langchain-groq
+python-dotenv
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
+pip install streamlit langgraph langchain-groq tavily-python python-dotenv
